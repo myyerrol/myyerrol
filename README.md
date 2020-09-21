@@ -1,9 +1,9 @@
-<h3 align="center">👋 Hello! I'm myyerrol.</h3>
+<h3 align="center">👋 Hello! 我是myyerrol.</h3>
 
 <p align="center">
   <a href="https://myyerrol.io">个人网站</a> •
-  <img alt="知乎首页" src="https://raw.githubusercontent.com/myyerrol/myyerrol/master/assets/zhihu.svg" width="20px"align="top" /><a href="https://www.zhihu.com/people/miaoyuyang">知乎首页</a> •
-  <a href="mailto:myyerrol@126.com">Mail</a> •
+  <a href="https://www.zhihu.com/people/miaoyuyang">知乎首页</a> •
+  <a href="mailto:myyerrol@126.com">邮箱地址</a> •
   <a href="https://space.bilibili.com/281072414">B站首页</a>
 </p>
 
