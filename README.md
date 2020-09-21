@@ -6,4 +6,7 @@
   <a href="https://github.com/myyerrol">B站首页</a>
 </p>
 
-<a href="https://github.com/myyerrol"><img src="https://github-readme-stats.vercel.app/api?username=myyerrol&show_icons=true&count_private=true&hide_title=false&theme=merko" style="width:58%; max-width:58%; min-width:58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&layout=compact&count_private=true&theme=merko" style="width:40%; max-width:40%; min-width:40%;"></a>
+### 
+
+<a href="https://github.com/myyerrol"><img src="https://github-readme-stats.vercel.app/api?username=myyerrol&show_icons=true&count_private=true&hide_title=false&theme=default"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&layout=compact&theme=default"></a>
+
