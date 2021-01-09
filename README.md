@@ -11,5 +11,5 @@
 
 <a href="https://github.com/myyerrol">
   <img src="https://github-readme-stats.vercel.app/api?username=myyerrol&theme=default&hide_title=true&show_icons=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&theme=default&layout=compact&card_width=400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&theme=default&layout=compact">
 </a>
