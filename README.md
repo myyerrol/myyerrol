@@ -7,6 +7,9 @@
   <a href="https://space.bilibili.com/281072414" target="_blank">BiliBili homepage</a>
 </p>
 
-### Github Statistics
+### Github Stats
 
-<a href="https://github.com/myyerrol"><img src="https://github-readme-stats.vercel.app/api?username=myyerrol&show_icons=true&count_private=true&hide_title=true&theme=default"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&layout=compact&theme=default"></a>
+<a href="https://github.com/myyerrol">
+  <img src="https://github-readme-stats.vercel.app/api?username=myyerrol&theme=default&hide_title=true&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myyerrol&theme=default&layout=compact&card_width=400">
+</a>
