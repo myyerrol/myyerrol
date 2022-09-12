@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm myyerrol.</h3>
 
 <p align="center">
-  <a href="https://myyerrol.io" target="_blank">Personal website</a> •
+  <a href="https://myyerrol.xyz" target="_blank">Personal website</a> •
   <a href="https://www.zhihu.com/people/miaoyuyang" target="_blank">ZhiHu homepage</a> •
   <a href="mailto:myyerrol@126.com">Email address</a> •
   <a href="https://space.bilibili.com/281072414" target="_blank">BiliBili homepage</a>
