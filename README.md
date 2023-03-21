@@ -10,6 +10,6 @@
 ---
 
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=myyerrol&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width=400>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myyerrol&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width=400>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=myyerrol&theme=gruvbox&hide_border=true" width=400>
 </p>
